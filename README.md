@@ -194,7 +194,6 @@ Pipeline ETL selesai.
 submission-pemda/
 ├── main.py                      # Entry point ETL pipeline
 ├── requirements.txt             # Python dependencies
-├── .env.example                 # Template environment variables
 ├── .gitignore                   # Git ignore rules
 ├── google-sheets-api.json       # Google API credentials (gitignored)
 ├── products.csv                 # Output CSV file
