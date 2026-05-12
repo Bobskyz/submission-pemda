@@ -197,7 +197,6 @@ submission-pemda/
 ├── .gitignore                   # Git ignore rules
 ├── google-sheets-api.json       # Google API credentials (gitignored)
 ├── products.csv                 # Output CSV file
-├── submission.txt               # Dokumentasi submission
 │
 ├── utils/                       # Utility modules
 │   ├── extract.py              # Web scraping logic
